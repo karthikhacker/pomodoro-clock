@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css?family=Anton|Oswald:200,300,400,500,600,700');
+
+body{
+  font-family: 'Anton', sans-serif;
+}
+
+h1{
+  text-align: center;
+}
+
+.col-lg-6{
+  text-align: center;
+}
+
+#counter{
+  letter-spacing: 2px;
+}
+
+.panel h2{
+  color: #FFF;
+
+}
